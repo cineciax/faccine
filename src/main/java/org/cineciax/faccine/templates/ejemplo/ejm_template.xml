@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persona id="${id}" rol="${rol}">
+    <Nombre>${nombre}</Nombre>
+    <Edad>${edad}</Edad>
+    <Direccion codigoPostal="${direccion.codigoPostal}" pais="${direccion.pais}">
+        <Calle>${direccion.calle}</Calle>
+        <Ciudad>${direccion.ciudad}</Ciudad>
+    </Direccion>
+</Persona>

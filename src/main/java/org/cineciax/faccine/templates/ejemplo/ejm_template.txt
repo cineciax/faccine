@@ -1,0 +1,8 @@
+Hola ${nombre},
+
+Te damos la bienvenida a nuestro servicio. Aquí están tus datos registrados:
+
+- Edad: ${edad}
+- Rol: ${rol}
+
+¡Gracias por unirte!
