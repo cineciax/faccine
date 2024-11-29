@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfaccinedoc=self.webpackChunkfaccinedoc||[]).push([[1903],{1912:c=>{c.exports=JSON.parse('{"blogBasePath":"/faccine/blog","blogTitle":"Blog","authorsListPath":"/faccine/blog/authors"}')}}]);
